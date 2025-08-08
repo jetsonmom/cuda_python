@@ -64,3 +64,8 @@ print(result)
 <img width="763" height="552" alt="image" src="https://github.com/user-attachments/assets/10a152f8-e599-478e-b951-740b0590600d" />
 <img width="766" height="430" alt="image" src="https://github.com/user-attachments/assets/f8ae8f92-58de-45ca-b583-5d862c1e0464" />
 더 많은 센서들을 특히 영상 제어에 병렬 처리는 무척 중요하다.
+
+<img width="768" height="543" alt="image" src="https://github.com/user-attachments/assets/75c39159-dedd-4c3c-b168-bf9e7f4de4c7" />
+
+<img width="762" height="552" alt="image" src="https://github.com/user-attachments/assets/d1a28cb0-6cb1-458d-af80-0883d54a7780" />
+<img width="762" height="427" alt="image" src="https://github.com/user-attachments/assets/a7949f3a-7857-4a5b-be7f-27ef5de074d7" />
