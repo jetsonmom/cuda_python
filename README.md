@@ -1,8 +1,6 @@
 # cuda_python
 
-# CUDA 학습자를 위한 ufunc 완벽 가이드
 
-이제 막 CUDA 공부를 시작하셨고 'ufunc'라는 개념을 접하셨다면, 고성능 병렬 컴퓨팅의 핵심에 한 걸음 더 다가선 것입니다. 이 문서에서는 ufunc이 무엇인지, 그리고 CUDA 프로그래밍에서 어떻게 강력한 도구로 사용되는지에 대해 자세히 설명합니다.
 
 ## 1. ufunc (Universal Function) 이란?
 
